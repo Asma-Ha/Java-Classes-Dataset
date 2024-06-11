@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/org/semver4j/internal/Tokenizers.java;https://github.com/semver4j/semver4j.git;47;;'org.semver4j.internal.StrictParserTest', 'org.semver4j.internal.range.processor.GreaterThanOrEqualZeroProcessorTest', 'org.semver4j.RangeTest', 'org.semver4j.internal.range.processor.CaretProcessorTest', 'org.semver4j.SemverTest', 'org.semver4j.RangesListFactoryTest', 'org.semver4j.RangesExpressionTest', 'org.semver4j.RangesListTest'

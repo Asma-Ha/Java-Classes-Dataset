@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/org/netpreserve/jwarc/HttpResponse.java;https://github.com/iipc/jwarc.git;101;;'org.netpreserve.jwarc.apitests.WarcRevisitTest', 'org.netpreserve.jwarc.HttpResponseTest', 'org.netpreserve.jwarc.apitests.ArcTest', 'org.netpreserve.jwarc.apitests.WarcReaderTest', 'org.netpreserve.jwarc.apitests.WarcFilterTest', 'org.netpreserve.jwarc.apitests.WarcWriterTest', 'org.netpreserve.jwarc.cdx.CdxWriterTest', 'org.netpreserve.jwarc.cdx.CdxFormatTest', 'org.netpreserve.jwarc.apitests.WarcResponseTest'

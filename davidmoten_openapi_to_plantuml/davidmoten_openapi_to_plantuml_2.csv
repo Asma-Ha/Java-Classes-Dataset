@@ -1,0 +1,2 @@
+filename;repo_url;pid;fid;rev_id;lines;tests
+src/main/java/com/github/davidmoten/oas3/internal/model/Class.java;https://github.com/davidmoten/openapi-to-plantuml.git;davidmoten_openapi_to_plantuml;davidmoten_openapi_to_plantuml_2;21cb86b57f2a2ad31550cc54599198a4819eb8cc;;com.github.davidmoten.oas3.puml.ConverterBatchTest,com.github.davidmoten.oas3.puml.ConverterMainTest,com.github.davidmoten.oas3.internal.model.ModelTest,com.github.davidmoten.oas3.puml.ConverterTest,com.github.davidmoten.oas3.puml.DemoBatchTest

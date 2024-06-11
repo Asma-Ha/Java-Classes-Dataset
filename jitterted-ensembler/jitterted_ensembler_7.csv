@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/com/jitterted/mobreg/MobRegApplication.java;https://github.com/jitterted/ensembler.git;37;;'com.jitterted.mobreg.adapter.in.web.admin.AdminEndpointConfigurationTest', 'com.jitterted.mobreg.adapter.in.web.member.EnsembleTimerControllerMvcTest', 'com.jitterted.mobreg.adapter.in.web.admin.EnsembleTimerLifecycleControllerMvcTest', 'com.jitterted.mobreg.adapter.in.web.admin.AdminMembershipEndpointTest', 'com.jitterted.mobreg.adapter.in.web.admin.InviteEditorTest'

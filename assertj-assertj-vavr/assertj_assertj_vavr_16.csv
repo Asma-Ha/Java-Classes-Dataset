@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/org/assertj/vavr/api/SetAssert.java;https://github.com/assertj/assertj-vavr.git;30;;'org.assertj.vavr.api.Set_assertion_methods_in_assumptions_Test', 'org.assertj.vavr.api.soft.AutoCloseableSoftVavrAssertionsTest', 'org.assertj.vavr.api.SetAssert_hasSize_Test', 'org.assertj.vavr.api.VavrInstanceOfAssertFactoriesTest', 'org.assertj.vavr.api.SetAssert_allSatisfy_Test', 'org.assertj.vavr.api.SetAssert_isEmpty_Test', 'org.assertj.vavr.api.soft.SoftVavrAssertionsTest'

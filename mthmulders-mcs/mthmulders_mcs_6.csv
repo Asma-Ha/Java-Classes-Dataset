@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/it/mulders/mcs/search/SearchResponse.java;https://github.com/mthmulders/mcs.git;22;;'it.mulders.mcs.search.SearchCommandHandlerTest$CoordinateSearchTest', 'it.mulders.mcs.search.SearchClientIT$WildcardSearchTest', 'it.mulders.mcs.search.SearchCommandHandlerTest$WildcardSearchTest', 'it.mulders.mcs.common.SearchResponseBodyHandlerTest', 'it.mulders.mcs.search.SearchCommandHandlerTest', 'it.mulders.mcs.search.SearchClientIT$SingularSearchTest'

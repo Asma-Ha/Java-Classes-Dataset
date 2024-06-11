@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/org/assertj/vavr/api/TryShouldBeSuccess.java;https://github.com/assertj/assertj-vavr.git;21;;'org.assertj.vavr.api.TryAssert_containsInstanceOf_Test', 'org.assertj.vavr.api.soft.AutoCloseableSoftVavrAssertionsTest', 'org.assertj.vavr.api.TryAssert_isSuccess_Test', 'org.assertj.vavr.api.TryAssert_hasValueSatisfying_Condition_Test', 'org.assertj.vavr.api.TryAssert_hasValueSatisfying_Test', 'org.assertj.vavr.api.soft.SoftVavrAssertionsTest'

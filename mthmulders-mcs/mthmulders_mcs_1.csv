@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/it/mulders/mcs/cli/Cli.java;https://github.com/mthmulders/mcs.git;110;;'it.mulders.mcs.cli.CliTest$SearchCommandTest', 'it.mulders.mcs.cli.CliTest', 'it.mulders.mcs.cli.CommandClassFactoryTest', 'it.mulders.mcs.AppTest', 'it.mulders.mcs.cli.CliTest$ClassSearchCommandTest'

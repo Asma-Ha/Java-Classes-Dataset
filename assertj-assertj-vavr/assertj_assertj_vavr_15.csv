@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/org/assertj/vavr/api/SeqShouldBeSorted.java;https://github.com/assertj/assertj-vavr.git;24;;'org.assertj.vavr.api.SeqAssert_isSortedAccordingTo_Test', 'org.assertj.vavr.api.Seq_assertion_methods_in_assumptions_Test', 'org.assertj.vavr.api.soft.AutoCloseableSoftVavrAssertionsTest', 'org.assertj.vavr.api.SeqAssert_isSorted_Test', 'org.assertj.vavr.api.soft.SoftVavrAssertionsTest'

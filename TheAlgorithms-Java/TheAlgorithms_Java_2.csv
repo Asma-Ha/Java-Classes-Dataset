@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/com/thealgorithms/sorts/SortUtilsRandomGenerator.java;https://github.com/TheAlgorithms/Java.git;23;;'com.thealgorithms.sorts.MergeSortTest', 'com.thealgorithms.sorts.InsertionSortTest', 'com.thealgorithms.sorts.CircleSortTest', 'com.thealgorithms.sorts.HeapSortTest', 'com.thealgorithms.sorts.TimSortTest', 'com.thealgorithms.sorts.SortUtilsRandomGeneratorTest', 'com.thealgorithms.sorts.ExchangeSortTest', 'com.thealgorithms.sorts.QuickSortTest'

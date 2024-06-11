@@ -1,0 +1,2 @@
+filename;repo_url;pid;fid;rev_id;lines;tests
+src/main/java/org/semver4j/internal/StrictParser.java;https://github.com/semver4j/semver4j.git;semver4j_semver4j;semver4j_semver4j_2;84a4c1379a4a3b5f15f6c221323cfac7ea0af667;;org.semver4j.internal.StrictParserTest,org.semver4j.internal.range.processor.GreaterThanOrEqualZeroProcessorTest,org.semver4j.RangeTest,org.semver4j.SemverTest,org.semver4j.RangesListFactoryTest,org.semver4j.RangesExpressionTest,org.semver4j.RangesListTest

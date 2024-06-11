@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/ch/jalu/configme/properties/builder/MapPropertyBuilder.java;https://github.com/AuthMe/ConfigMe.git;43;;'ch.jalu.configme.beanmapper.BeanMapOnRootLevelTest', 'ch.jalu.configme.properties.PropertyInitializerTest', 'ch.jalu.configme.resource.YamlFileResourceEscapingTest', 'ch.jalu.configme.properties.builder.MapPropertyBuilderTest', 'ch.jalu.configme.resource.YamlFileResourceNoSplitPathsTest'

@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/com/jitterted/mobreg/application/GoogleCalendarLinkCreator.java;https://github.com/jitterted/ensembler.git;40;;'com.jitterted.mobreg.adapter.out.email.EmailToSendEnsembleScheduledNotifierTest', 'com.jitterted.mobreg.adapter.out.email.EmailToSendMembersWhenEnsembleCompletedTest', 'com.jitterted.mobreg.adapter.in.web.member.EnsembleSummaryViewTest', 'com.jitterted.mobreg.application.GoogleCalendarLinkCreatorTest', 'com.jitterted.mobreg.adapter.out.email.EmailToSendMemberAcceptedNotifierTest'

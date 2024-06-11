@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/com/github/davidmoten/oas3/internal/model/Association.java;https://github.com/davidmoten/openapi-to-plantuml.git;153;;'com.github.davidmoten.oas3.puml.ConverterBatchTest', 'com.github.davidmoten.oas3.puml.ConverterMainTest', 'com.github.davidmoten.oas3.internal.model.AssociationTest', 'com.github.davidmoten.oas3.internal.model.ModelTest', 'com.github.davidmoten.oas3.puml.ConverterTest', 'com.github.davidmoten.oas3.puml.DemoBatchTest'

@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/ch/jalu/configme/properties/types/InlineArrayPropertyType.java;https://github.com/AuthMe/ConfigMe.git;69;;'ch.jalu.configme.properties.builder.ArrayPropertyBuilderTest', 'ch.jalu.configme.properties.types.EnumPropertyTypeTest', 'ch.jalu.configme.properties.PropertyInitializerTest', 'ch.jalu.configme.properties.types.StringTypeTest', 'ch.jalu.configme.properties.types.NumberTypeTest', 'ch.jalu.configme.properties.InlineArrayPropertyTest', 'ch.jalu.configme.properties.types.InlineArrayPropertyTypeTest'

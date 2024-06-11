@@ -1,2 +1,0 @@
-filename;repository_url;nbre_loc;lines;tests
-src/main/java/org/semver4j/internal/range/processor/RangesUtils.java;https://github.com/semver4j/semver4j.git;25;;'org.semver4j.internal.range.processor.CaretProcessorTest', 'org.semver4j.SemverTest', 'org.semver4j.RangesListFactoryTest', 'org.semver4j.internal.range.processor.IvyProcessorTest', 'org.semver4j.RangesListTest'
