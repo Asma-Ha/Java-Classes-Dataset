@@ -1,0 +1,2 @@
+filename;repository_url;nbre_loc;lines;tests
+src/main/java/ch/jalu/configme/properties/OptionalProperty.java;https://github.com/AuthMe/ConfigMe.git;50;;'ch.jalu.configme.properties.PropertyInitializerTest', 'ch.jalu.configme.resource.YamlFileResourceTest', 'ch.jalu.configme.SettingsManagerImplTest', 'ch.jalu.configme.resource.UniqueCommentTest', 'ch.jalu.configme.properties.OptionalPropertyTest'

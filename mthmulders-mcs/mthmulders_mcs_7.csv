@@ -1,0 +1,2 @@
+filename;repository_url;nbre_loc;lines;tests
+src/main/java/it/mulders/mcs/search/WildcardSearchQuery.java;https://github.com/mthmulders/mcs.git;42;;'it.mulders.mcs.cli.CliTest$SearchCommandTest', 'it.mulders.mcs.search.SearchClientIT$WildcardSearchTest', 'it.mulders.mcs.cli.CliTest', 'it.mulders.mcs.search.WildcardSearchQueryTest', 'it.mulders.mcs.search.SearchCommandHandlerTest$WildcardSearchTest', 'it.mulders.mcs.search.SearchClientIT$ErrorHandlingTest', 'it.mulders.mcs.search.SearchCommandHandlerTest', 'it.mulders.mcs.search.WildcardSearchQueryTest$ToSolrQueryTest'

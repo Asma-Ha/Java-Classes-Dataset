@@ -1,0 +1,2 @@
+filename;repository_url;nbre_loc;lines;tests
+src/main/java/ch/jalu/configme/beanmapper/ConfigMeMapperException.java;https://github.com/AuthMe/ConfigMe.git;24;;'ch.jalu.configme.beanmapper.propertydescription.BeanPropertyDescriptionImplTest', 'ch.jalu.configme.beanmapper.MapperTypeInfoWithNoClassEquivTest', 'ch.jalu.configme.beanmapper.propertydescription.BeanDescriptionFactoryImplTest', 'ch.jalu.configme.beanmapper.MapperImplTest', 'ch.jalu.configme.beanmapper.MappingContextImplTest'

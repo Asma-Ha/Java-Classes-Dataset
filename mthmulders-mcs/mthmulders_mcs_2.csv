@@ -1,0 +1,2 @@
+filename;repository_url;nbre_loc;lines;tests
+src/main/java/it/mulders/mcs/search/ClassnameQuery.java;https://github.com/mthmulders/mcs.git;57;;'it.mulders.mcs.cli.CliTest', 'it.mulders.mcs.search.ClassnameQueryTest$SearchQueryBuilderTest', 'it.mulders.mcs.search.ClassnameQueryTest', 'it.mulders.mcs.cli.CliTest$ClassSearchCommandTest', 'it.mulders.mcs.search.ClassnameQueryTest$ToSolrQueryTest'

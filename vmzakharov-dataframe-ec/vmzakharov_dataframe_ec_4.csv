@@ -1,0 +1,2 @@
+filename;repository_url;nbre_loc;lines;tests
+src/main/java/io/github/vmzakharov/ecdataframe/dataset/CsvDataSet.java;https://github.com/vmzakharov/dataframe-ec.git;676;;'io.github.vmzakharov.ecdataframe.dataset.DataFrameLoadFromZippedTest', 'io.github.vmzakharov.ecdataframe.dataset.DataFrameWriteTest', 'io.github.vmzakharov.ecdataframe.dataset.SeparatedTextSplittingTest', 'io.github.vmzakharov.ecdataframe.dataset.DataFrameLoadTest', 'io.github.vmzakharov.ecdataframe.dataset.FormattedColumnsTest'

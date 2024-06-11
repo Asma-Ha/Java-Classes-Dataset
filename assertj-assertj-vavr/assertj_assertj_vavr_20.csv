@@ -1,0 +1,2 @@
+filename;repository_url;nbre_loc;lines;tests
+src/main/java/org/assertj/vavr/api/ValidationShouldContainInstanceOf.java;https://github.com/assertj/assertj-vavr.git;44;;'org.assertj.vavr.api.ValidationAssert_containsInvalidInstanceOf_Test', 'org.assertj.vavr.api.soft.AutoCloseableSoftVavrAssertionsTest', 'org.assertj.vavr.api.ValidationAssert_containsValidInstanceOf_Test', 'org.assertj.vavr.api.Validation_assertion_methods_in_assumptions_Test', 'org.assertj.vavr.api.soft.SoftVavrAssertionsTest'
