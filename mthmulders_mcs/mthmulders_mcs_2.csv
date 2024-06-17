@@ -1,2 +1,2 @@
-filename;repo_url;pid;fid;rev_id;lines;tests
-src/main/java/it/mulders/mcs/search/ClassnameQuery.java;https://github.com/mthmulders/mcs.git;mthmulders_mcs;mthmulders_mcs_2;794ddb1f7943af888bafb9dcc0930f775b6e0cbc;;it.mulders.mcs.cli.CliTest,it.mulders.mcs.search.ClassnameQueryTest$SearchQueryBuilderTest,it.mulders.mcs.search.ClassnameQueryTest,it.mulders.mcs.cli.CliTest$ClassSearchCommandTest,it.mulders.mcs.search.ClassnameQueryTest$ToSolrQueryTest
+filename;git_url;pid;fid;project_name;rev_id;tests
+src/main/java/it/mulders/mcs/search/ClassnameQuery.java;https://github.com/mthmulders/mcs.git;mthmulders_mcs;2;mthmulders_mcs_2;794ddb1f7943af888bafb9dcc0930f775b6e0cbc;it.mulders.mcs.cli.CliTest,it.mulders.mcs.search.ClassnameQueryTest$SearchQueryBuilderTest,it.mulders.mcs.search.ClassnameQueryTest,it.mulders.mcs.cli.CliTest$ClassSearchCommandTest,it.mulders.mcs.search.ClassnameQueryTest$ToSolrQueryTest

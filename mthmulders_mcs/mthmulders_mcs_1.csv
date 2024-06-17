@@ -1,2 +1,2 @@
-filename;repo_url;pid;fid;rev_id;lines;tests
-src/main/java/it/mulders/mcs/cli/Cli.java;https://github.com/mthmulders/mcs.git;mthmulders_mcs;mthmulders_mcs_1;794ddb1f7943af888bafb9dcc0930f775b6e0cbc;;it.mulders.mcs.cli.CliTest$SearchCommandTest,it.mulders.mcs.cli.CliTest,it.mulders.mcs.cli.CommandClassFactoryTest,it.mulders.mcs.AppTest,it.mulders.mcs.cli.CliTest$ClassSearchCommandTest
+filename;git_url;pid;fid;project_name;rev_id;tests
+src/main/java/it/mulders/mcs/cli/Cli.java;https://github.com/mthmulders/mcs.git;mthmulders_mcs;1;mthmulders_mcs_1;794ddb1f7943af888bafb9dcc0930f775b6e0cbc;it.mulders.mcs.cli.CliTest$SearchCommandTest,it.mulders.mcs.cli.CliTest,it.mulders.mcs.cli.CommandClassFactoryTest,it.mulders.mcs.AppTest,it.mulders.mcs.cli.CliTest$ClassSearchCommandTest

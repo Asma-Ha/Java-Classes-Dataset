@@ -1,2 +1,2 @@
-filename;repo_url;pid;fid;rev_id;lines;tests
-src/main/java/org/semver4j/Semver.java;https://github.com/semver4j/semver4j.git;semver4j_semver4j;semver4j_semver4j_1;22bf498126089977a9ea713a97fc43ee6804731f;;org.semver4j.internal.range.processor.GreaterThanOrEqualZeroProcessorTest,org.semver4j.RangeTest,org.semver4j.SemverTest,org.semver4j.RangesListFactoryTest,org.semver4j.RangesExpressionTest,org.semver4j.RangesListTest
+filename;git_url;pid;fid;project_name;rev_id;tests
+src/main/java/org/semver4j/Semver.java;https://github.com/semver4j/semver4j.git;semver4j_semver4j;1;semver4j_semver4j_1;22bf498126089977a9ea713a97fc43ee6804731f;org.semver4j.internal.range.processor.GreaterThanOrEqualZeroProcessorTest,org.semver4j.RangeTest,org.semver4j.SemverTest,org.semver4j.RangesListFactoryTest,org.semver4j.RangesExpressionTest,org.semver4j.RangesListTest
